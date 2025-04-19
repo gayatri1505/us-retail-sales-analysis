@@ -58,21 +58,25 @@ These techniques helped uncover **seasonality trends**, **COVID-19 impacts**, an
 
 **Overall Retail Sales Trend**
    - Clear long-term growth trend in U.S. retail and food services sales. The only major declines occurred in 2009 (global financial crisis) and 2020 (COVID-19 pandemic). Sales rebounded strongly post-2020 and reached their highest point in 2025, crossing $9 million USD, continuing the upward trajectory.
+     ![image](https://github.com/user-attachments/assets/a7050496-2a1d-4858-a32c-f19e47d6fb9a)
+
 
 **Leisure Categories: Book, Hobby, and Sporting Goods Stores**
    - Sporting goods stores led all three categories in growth and peaked around 2021, likely driven by pandemic-fueled outdoor activity interest. Though slightly declining after 2022, they still remain far above the other categories.
    - Book stores saw a steady decline from the mid-2000s, likely due to digital transformation and the rise of e-commerce platforms.
+     ![image](https://github.com/user-attachments/assets/640568e7-cea5-4618-9cfb-ae08998c3598)
+
 
 **Women’s vs. Men’s Clothing Sales**
    - Women's clothing consistently outperformed men's, with the gap widening during the early 2000s and reaching a significant peak in the 2010s.
    - Both categories declined sharply in 2020, but women's sales recovered quickly, while men's clothing sales have continued to decline post-2020, contributing to a growing disparity.
    - Ratio and percent-difference analysis confirmed that women's clothing sales have been 2.5x to 4x higher than men’s in recent years.
+     ![image](https://github.com/user-attachments/assets/acdddbf6-66f9-4362-a227-0531f839d756)
+
 
 **Seasonality & Monthly Changes**
   - Strong seasonality patterns were visible in categories like book stores, with recurring spikes (likely around holidays or back-to-school seasons).
   - Month-over-month percent change and year-over-year (YoY) comparisons revealed that: The biggest disruption came in 2020, with negative YoY growth for several categories. 2021 showed massive recovery, especially in women’s clothing and sporting goods.
-
-
 
 
 ## References
