@@ -89,8 +89,7 @@ These techniques helped uncover **seasonality trends**, **COVID-19 impacts**, an
   - 2020: COVID-19 Pandemic and its economic impact
   - Post-2020: Recovery patterns and consumer rebound visible in retail categories such as sporting goods and apparel
 
-- **BigQuery SQL Documentation**:  
-  [https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax)
+- **BigQuery SQL Documentation**: [https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax)
 
 - **Book Reference**:  
   Molinaro, Cathy T. *SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights*. O’Reilly Media, 2020.  
