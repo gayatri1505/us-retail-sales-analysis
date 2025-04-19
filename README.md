@@ -4,7 +4,7 @@ Collected and transformed 30+ years of monthly retail sales data from the US Cen
 
 ## Project Overview
 
-- **Data Source**: U.S. Census Bureau — [Retail and Food Services Sales Excel Dataset](https://www.census.gov/retail/index.html)
+- **Data Source**: U.S. Census Bureau : [Retail and Food Services Sales Excel Dataset](https://www.census.gov/retail/index.html)
 - **Time Period**: 1992–2025
 - **Granularity**: Monthly sales (in millions USD), both total and subcategory-wise
 - **Tools Used**: Excel (Macros, Power Query), Google BigQuery (SQL), Python (matplotlib, pandas)
