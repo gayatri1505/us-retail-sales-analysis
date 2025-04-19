@@ -76,6 +76,8 @@ These techniques helped uncover **seasonality trends**, **COVID-19 impacts**, an
 
 **Seasonality & Monthly Changes**
   - Strong seasonality patterns were visible in categories like book stores, with recurring spikes (likely around holidays or back-to-school seasons).
+    ![image](https://github.com/user-attachments/assets/e2dd83b2-f1b5-4eaa-bf4a-ab2880ba43bf)
+
   - Month-over-month percent change and year-over-year (YoY) comparisons revealed that: The biggest disruption came in 2020, with negative YoY growth for several categories. 2021 showed massive recovery, especially in women’s clothing and sporting goods.
 
 
