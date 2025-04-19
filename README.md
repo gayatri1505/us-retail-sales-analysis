@@ -30,25 +30,25 @@ Collected and transformed 30+ years of monthly retail sales data from the US Cen
 
 ## SQL Techniques Used in **Google BigQuery**:
 ### Time Series & Aggregations
-    - `EXTRACT(YEAR FROM date)`, `SUM()`, `ROUND()`
-    - Grouping by `year`, `sales_month`, and `kind_of_business` to uncover long-term trends
+   - `EXTRACT(YEAR FROM date)`, `SUM()`, `ROUND()`
+   - Grouping by `year`, `sales_month`, and `kind_of_business` to uncover long-term trends
 
 ### Window Functions
-    - `LAG()` – Compare values from the previous month/year
-    - `FIRST_VALUE()` – Calculate index-based growth from the baseline year (1992)
-    - `SUM(...) OVER (...)` – Compute cumulative totals (e.g., year-to-date)
-    - `AVG(...) OVER (...)`, `COUNT(...) OVER (...)` – Create moving averages and rolling metrics
+   - `LAG()` – Compare values from the previous month/year
+   - `FIRST_VALUE()` – Calculate index-based growth from the baseline year (1992)
+   - `SUM(...) OVER (...)` – Compute cumulative totals (e.g., year-to-date)
+   - `AVG(...) OVER (...)`, `COUNT(...) OVER (...)` – Create moving averages and rolling metrics
 
 ### Conditional Aggregation
-    - `CASE WHEN` – Used to compute gaps and ratios between categories (e.g., women’s vs. men’s clothing sales)
+   - `CASE WHEN` – Used to compute gaps and ratios between categories (e.g., women’s vs. men’s clothing sales)
 
 ### Percent Calculations
-    - Calculate monthly share of yearly or total sales
-    - Determine year-over-year (YoY) growth and percent change
-    - Analyze percent difference and sales ratios between subcategories
+   - Calculate monthly share of yearly or total sales
+   - Determine year-over-year (YoY) growth and percent change
+   - Analyze percent difference and sales ratios between subcategories
 
 ### Rolling Time Windows
-    - Used **self-joins** and date math (`DATE_SUB()`) to implement 12-month rolling analysis windows
+   - Used **self-joins** and date math (`DATE_SUB()`) to implement 12-month rolling analysis windows
 
 These techniques helped uncover **seasonality trends**, **COVID-19 impacts**, and **category-specific consumer behavior shifts** over time.
 
